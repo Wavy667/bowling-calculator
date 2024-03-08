@@ -1,0 +1,15 @@
+{
+  "FolderOrderSettings": [
+    {"name":"Objects","order":9,"path":"folders/Objects.yy",},
+    {"name":"Rooms","order":10,"path":"folders/Rooms.yy",},
+    {"name":"Sprites","order":1,"path":"folders/Sprites.yy",},
+  ],
+  "ResourceOrderSettings": [
+    {"name":"spr_pin","order":1,"path":"sprites/spr_pin/spr_pin.yy",},
+    {"name":"obj_submitscore","order":4,"path":"objects/obj_submitscore/obj_submitscore.yy",},
+    {"name":"spr_lane","order":3,"path":"sprites/spr_lane/spr_lane.yy",},
+    {"name":"obj_score","order":2,"path":"objects/obj_score/obj_score.yy",},
+    {"name":"obj_pin","order":1,"path":"objects/obj_pin/obj_pin.yy",},
+    {"name":"spr_submitscore","order":2,"path":"sprites/spr_submitscore/spr_submitscore.yy",},
+  ],
+}
